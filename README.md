@@ -21,7 +21,7 @@ export const ColorComponent = _ => <div className="d-bg-yellow d-yellow">done!</
 ```
 
 ## color palette
-![color palette](@deptno:color.png)
+![color palette](color-palette.png)
 
 ## color class names
 ### color
