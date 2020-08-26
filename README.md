@@ -1,5 +1,9 @@
 # @deptno/color
 
+[![npm](https://img.shields.io/npm/dt/@deptno/color.svg?style=for-the-badge)](https://www.npmjs.com/package/@deptno/color)
+
+color schema
+
 ## install
 ```shell script
 npm install @deptno/color
