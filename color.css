@@ -1,0 +1,177 @@
+:root {
+    --d-white: #f2f2f2;
+    --d-yellow: #f2b705;
+    --d-tomato: #f2220f;
+    --d-rose: #bf0404;
+    --d-green: #5C9141;
+    --d-orange: #F5A502;
+    --d-gold: #FCC109;
+    --d-blue: #547DBF;
+    --d-navy: #243265;
+    --d-gray: #555555;
+}
+
+.schema-border {
+    background-color: white;
+    color: black;
+}
+
+.schema-create {
+    background-color: var(--d-blue);
+    color: var(--d-white);
+    border: none;
+}
+
+.schema-update {
+    background-color: var(--d-yellow);
+    color: var(--d-navy);
+    border: none;
+}
+
+.schema-cancel {
+    background-color: gray;
+    color: var(--d-white);
+}
+
+.schema-delete {
+    background-color: var(--d-rose);
+    color: var(--d-white);
+}
+
+.schema-connect {
+    background-color: var(--d-orange);
+    color: var(--d-navy);
+}
+
+.schema-search {
+    background-color: var(--d-navy);
+    color: white;
+    border: none;
+}
+
+.schema-reset {
+    background-color: lightgrey;
+    color: gray;
+    border: none;
+}
+
+.schema-action {
+    background-color: var(--d-green);
+    color: white;
+}
+
+.schema-move {
+    background-color: var(--d-orange);
+    color: var(--d-gold);
+}
+
+.schema-external {
+    background-color: var(--d-white);
+    color: var(--d-navy);
+}
+
+.schema-expandable1 {
+    background-color: var(--d-yellow);
+    color: var(--d-navy);
+}
+
+.schema-expandable2 {
+    background-color: var(--d-green);
+    color: var(--d-navy);
+}
+
+.schema-disabled {
+    background-color: #eeeeee;
+    color: #cccccc;
+}
+
+.d-schema-navy {
+    background-color: var(--d-navy);
+    color: var(--d-white);
+}
+
+.d-schema-white {
+    background-color: var(--d-white);
+}
+
+.d-schema-yellow {
+    background-color: var(--d-yellow);
+    color: var(--d-navy);
+}
+
+.d-schema-tomato {
+    background-color: var(--d-tomato);
+}
+
+.d-schema-rose {
+    background-color: var(--d-rose);
+    color: var(--d-yellow);
+}
+
+.d-schema-green {
+    background-color: var(--d-green);
+    color: var(--d-white);
+}
+
+.d-bg-blue {
+    background-color: var(--d-blue);
+}
+
+.d-bg-navy {
+    background-color: var(--d-navy);
+}
+
+.d-bg-white {
+    background-color: var(--d-white);
+}
+
+.d-bg-yellow {
+    background-color: var(--d-yellow);
+}
+
+.d-bg-tomato {
+    background-color: var(--d-tomato);
+}
+
+.d-bg-rose {
+    background-color: var(--d-rose);
+}
+
+.d-bg-green {
+    background-color: var(--d-green);
+}
+
+.d-blue {
+    color: var(--d-blue);
+}
+
+.d-navy {
+    color: var(--d-navy);
+}
+
+.d-white {
+    color: var(--d-white);
+}
+
+.d-yellow {
+    color: var(--d-yellow);
+}
+
+.d-tomato {
+    color: var(--d-tomato);
+}
+
+.d-rose {
+    color: var(--d-rose);
+}
+
+.d-green {
+    color: var(--d-green);
+}
+
+@font-face {
+    font-family: 'Arita-dotum-Medium';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/Arita-dotum-Medium.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}

@@ -1,0 +1,25 @@
+{
+  "name": "@deptno/color",
+  "version": "1.0.0",
+  "description": "color schema",
+  "main": "style.css",
+  "style": "style.css",
+  "scripts": {
+    "deploy": "npm publish --access public",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deptno/color.git"
+  },
+  "keywords": [
+    "color",
+    "deptno"
+  ],
+  "author": "Bonggyun Lee <deptno@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deptno/color/issues"
+  },
+  "homepage": "https://github.com/deptno/color#readme"
+}
