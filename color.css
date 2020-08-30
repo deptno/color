@@ -9,8 +9,13 @@
     --d-blue: #547DBF;
     --d-navy: #243265;
     --d-gray: #555555;
+    --d-navy-green: #334752;
 }
 
+.schema-pub {
+    background-color: var(--d-navy-green);
+    color: gold;
+}
 .schema-border {
     background-color: white;
     color: black;
