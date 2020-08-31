@@ -1,6 +1,6 @@
 {
   "name": "@deptno/color",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "color schema",
   "main": "style.css",
   "style": "style.css",

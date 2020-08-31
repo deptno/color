@@ -16,6 +16,7 @@
     background-color: var(--d-navy-green);
     color: gold;
 }
+
 .schema-border {
     background-color: white;
     color: black;
@@ -168,6 +169,50 @@
 
 .d-green {
     color: var(--d-green);
+}
+
+.d-b--white {
+    border-color: var(--d-white);
+}
+
+.d-b--yellow {
+    border-color: var(--d-yellow);
+}
+
+.d-b--tomato {
+    border-color: var(--d-tomato);
+}
+
+.d-b--rose {
+    border-color: var(--d-rose);
+}
+
+.d-b--green {
+    border-color: var(--d-green);
+}
+
+.d-b--orange {
+    border-color: var(--d-orange);
+}
+
+.d-b--gold {
+    border-color: var(--d-gold);
+}
+
+.d-b--blue {
+    border-color: var(--d-blue);
+}
+
+.d-b--navy {
+    border-color: var(--d-navy);
+}
+
+.d-b--gray {
+    border-color: var(--d-gray);
+}
+
+.d-b--navy-green {
+    border-color: var(--d-navy-green);
 }
 
 @font-face {
