@@ -24,13 +24,11 @@
 .schema-create {
     background-color: var(--d-blue);
     color: var(--d-white);
-    border: none;
 }
 
 .schema-update {
     background-color: var(--d-yellow);
     color: var(--d-navy);
-    border: none;
 }
 
 .schema-cancel {
@@ -51,13 +49,11 @@
 .schema-search {
     background-color: var(--d-navy);
     color: white;
-    border: none;
 }
 
 .schema-reset {
     background-color: lightgrey;
     color: gray;
-    border: none;
 }
 
 .schema-action {
