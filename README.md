@@ -83,13 +83,22 @@ import '@deptno/color/typescriptlang.css'
 .b--ts-blue-a
 .b--ts-blue-b
 .b--ts-blue-c
+
+.hover-bg-ts-blue-a:focus,.hover-bg-ts-blue-a:hover
+.hover-bg-ts-blue-b:focus,.hover-bg-ts-blue-b:hover
+.hover-bg-ts-blue-c:focus,.hover-bg-ts-blue-c:hover
+
+.hover-ts-blue-a:focus,.hover-ts-blue-a:hover
+.hover-ts-blue-b:focus,.hover-ts-blue-b:hover
+.hover-ts-blue-c:focus,.hover-ts-blue-c:hover
 ```
 
 ## contributors
 @deptno, @sohee-lee7, @hhaze
 
 ## changelog
-1.1.0 - typescriptlang.org
+- 1.1.0 - typescriptlang.org
+  - 1.1.2 - hover,focus
 
 ## license
 MIT
