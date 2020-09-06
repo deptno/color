@@ -72,17 +72,17 @@ export const ColorComponent = _ => <div className="d-bg-yellow d-yellow">done!</
 import '@deptno/color/typescriptlang.css'
 ```
 ```
-.bg-ts-blue-a { background-color: #2B6DBF; }
-.ts-blue-a { color: #2B6DBF; }
-.b--ts-blue-a { border-color: #2B6DBF; }
+.bg-ts-blue-a
+.bg-ts-blue-b
+.bg-ts-blue-c
 
-.bg-ts-blue-b { background-color: #1F508C; }
-.ts-blue-b { color: #1F508C; }
-.b--ts-blue-b { border-color: #1F508C; }
+.ts-blue-a
+.ts-blue-b
+.ts-blue-c
 
-.bg-ts-blue-c { background-color: #002337; }
-.ts-blue-c { color: #002337; }
-.b--ts-blue-c { border-color: #002337; }
+.b--ts-blue-a
+.b--ts-blue-b
+.b--ts-blue-c
 ```
 
 ## contributors
