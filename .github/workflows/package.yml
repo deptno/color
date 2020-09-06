@@ -6,6 +6,7 @@ on:
       - 'package.json'
       - 'README.md'
       - 'color.css'
+      - 'typescriptlang.css'
       - '.github/workflows/package.yml'
 
 jobs:

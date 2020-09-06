@@ -67,10 +67,29 @@ export const ColorComponent = _ => <div className="d-bg-yellow d-yellow">done!</
 .schema-expandable2
 .schema-disabled
 ```
+### typescriptlang.org color
+```typescript jsx
+import '@deptno/color/typescriptlang.css'
+```
+```
+.bg-ts-blue-a { background-color: #2B6DBF; }
+.ts-blue-a { color: #2B6DBF; }
+.b--ts-blue-a { border-color: #2B6DBF; }
 
----
+.bg-ts-blue-b { background-color: #1F508C; }
+.ts-blue-b { color: #1F508C; }
+.b--ts-blue-b { border-color: #1F508C; }
+
+.bg-ts-blue-c { background-color: #002337; }
+.ts-blue-c { color: #002337; }
+.b--ts-blue-c { border-color: #002337; }
+```
+
 ## contributors
 @deptno, @sohee-lee7, @hhaze
+
+## changelog
+1.1.0 - typescriptlang.org
 
 ## license
 MIT
